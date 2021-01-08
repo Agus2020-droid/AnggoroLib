@@ -1,0 +1,3 @@
+include ':AnggoroLibrary'
+include ':app'
+rootProject.name = "ProjectAnggoroLibrary"
