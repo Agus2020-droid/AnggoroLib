@@ -1,8 +1,12 @@
 package com.anggoro.anggorolibrary;
 
+import android.content.Context;
+import android.widget.Toast;
+
 public class KirimPesan {
     Context context;
     String pesan;
+
     public KirimPesan() {
     }
     public KirimPesan(Context context, String pesan) {
